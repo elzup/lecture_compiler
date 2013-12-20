@@ -153,6 +153,5 @@ class Calcurator {
 public class CalcuratorEx {
 	public static void main(String[] args) {
 		Calcurator calcurator = new Calcurator();
-		calcurator.getClass();
 	}
 }
